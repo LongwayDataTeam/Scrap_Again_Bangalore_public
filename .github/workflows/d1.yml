@@ -48,7 +48,7 @@ jobs:
     # Step 5: Install Python dependencies
     - name: Install Python dependencies
       run: |
-        cd Amz_Flp_Data_Scraper_Bangalore
+        cd Scrap_Again_Bangalore
         pip install -r requirements.txt
     
     # Step 6: Run your scraper from the private repo
